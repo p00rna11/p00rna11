@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoornaChand Yanamadala
-- 👀 I’m interested in Learning New things
-- 🌱 I’m currently Doing Masters In Applied Computer Science
-- 💞️ I’m looking to collaborate on different renowned organizations in devolopings websites & Applications
-- 📫 How to reach --> poornachandy2021@Gmail.com
+- 👀 I’m interested in Learning New things(AI, Neural Networks)
+- 🌱 I Have Done My Masters In Applied Computer Science
+- 💞️ I’m looking to collaborate on different renowned organizations in devolopings websites & Applications Using New Technologies
+- 📫 How to reach --> poornachand621@Gmail.com
 
